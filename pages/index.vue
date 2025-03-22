@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h1>This is my portfolio</h1>
+        <p>This is my homepage</p>
     </div>
 </template>
